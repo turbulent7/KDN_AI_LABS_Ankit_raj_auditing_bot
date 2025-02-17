@@ -1,4 +1,7 @@
-# End-to-end-AUDITING_BOT
+# End-to-end-AUDITING_BOT-using-GENERATIVE_AI
+
+# Welcome to auditing_bot, a powerful web application that centralizes and automates the auditing process using cutting-edge AI tools. Built with the latest technologies, auditing_bot integrates data ingestion, VectorDB (Pinecone), and Hugging Face to provide in-depth analytics and real-time insights. This project leverages OpenAI for enhanced natural language processing and decision-making capabilities, combined with Hugging Face models to further boost the AI's ability to understand and interact with various types of data.
+# With Pinecone and Hugging Face, the project implements a robust and efficient method for managing and analyzing large datasets, making it the perfect solution for modern auditing and data processing needs.
 
 
 # How to run?
