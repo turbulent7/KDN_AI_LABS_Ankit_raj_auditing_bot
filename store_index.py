@@ -20,7 +20,7 @@ embeddings = download_hugging_face_embeddings()
 
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-index_name = "audibot"
+index_name = "botaudi"
 
 
 pc.create_index(
