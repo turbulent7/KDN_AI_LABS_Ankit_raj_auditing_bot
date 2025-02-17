@@ -35,6 +35,13 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 ```bash
+# run the following command for some installations
+pip install langchain-huggingface
+pip install --upgrade pinecone-client langchain-pinecone
+
+```
+
+```bash
 # run the following command to store embeddings to pinecone
 python store_index.py
 ```
