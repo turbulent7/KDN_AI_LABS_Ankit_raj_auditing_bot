@@ -67,6 +67,29 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+## 🚀 Demo
+
+### 1. **Project Overview**
+![Project Overview](images/output_1.png)
+
+---
+![Project Overview](images/output_2.png)
+
+---
+![Project Overview](images/output_3.png)
+
+---
+![Project Overview](images/output_4.png)
+
+---
+![Project Overview](images/output_5.png)
+
+---
+![Project Overview](images/output_6.png)
+
+---
+
+
 
 
 
