@@ -39,8 +39,7 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ```bash
 # run the following command for some installations
-pip install langchain-huggingface
-pip install --upgrade pinecone-client langchain-pinecone
+pip install -U cryptography
 
 ```
 
