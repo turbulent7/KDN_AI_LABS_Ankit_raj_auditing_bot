@@ -110,7 +110,7 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- GPT
+- OpenAI
 - Pinecone
 ## 🚀 Demo
 
